@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+
+# IDEA
+*.iml
+
+# Maven
+target/
+web/WEB-INF/classes/
+web/WEB-INF/lib/
+
